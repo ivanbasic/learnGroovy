@@ -1,4 +1,3 @@
 interface aGroovyLesson {
-   def lesson();
-
+    def lesson();
 }
