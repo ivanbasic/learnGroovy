@@ -15,7 +15,7 @@ static void process(aGroovyLesson lesson) {
     println(lesson.class.toString().replace("class", "lesson"))
     println("===============================================================")
 
-    lesson.lesson();
+    lesson.lesson()
 
     println("")
 }
