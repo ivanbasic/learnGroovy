@@ -7,6 +7,8 @@ static void main(String[] args) {
     process(new g110_Second())
     process(new g120_DataTypes())
     process(new g130_RangeOperators() )
+    process(new g140_Numbers() )
+
 
 }
 
