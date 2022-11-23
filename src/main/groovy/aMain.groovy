@@ -6,6 +6,7 @@ static void main(String[] args) {
     process(new g100_Hello())
     process(new g110_Second())
     process(new g120_DataTypes())
+    process(new g130_RangeOperators() )
 
 }
 
