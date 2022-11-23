@@ -1,0 +1,4 @@
+interface aGroovyLesson {
+   def lesson();
+
+}
