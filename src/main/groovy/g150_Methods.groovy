@@ -3,6 +3,7 @@ class g150_Methods implements aGroovyLesson {
     @Override
     def lesson() {
         method(1, 2);
+        method("string", 2);
 
         println "No signature of method: g150_Methods.method() is applicable for argument types: (String, String)"
         //method(  "string ", "string")
