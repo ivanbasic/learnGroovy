@@ -1,4 +1,4 @@
-class g_160_Strings implements aGroovyLesson {
+class g160_Strings implements aGroovyLesson {
 
     @Override
     def lesson() {
