@@ -11,7 +11,7 @@ static void main(String[] args) {
     process(new g150_Methods())
     process(new g160_Strings())
     process(new g170_Lists())
-
+    process(new g180_Maps())
 
 }
 

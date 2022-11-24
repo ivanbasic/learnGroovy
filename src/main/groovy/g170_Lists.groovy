@@ -7,6 +7,6 @@ class g170_Lists implements aGroovyLesson {
         def list3 = [1, 2, [3, 4], 5]
         def list4 = ["Groovy", 21, 2.11]
         def list5 = []
-        
+
     }
 }
