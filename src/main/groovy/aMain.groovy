@@ -14,11 +14,10 @@ static void main(String[] args) {
     process(new g180_Maps())
     process(new g190_RegularExpressions())
     process(new g200_ObjectProgrammingClass())
+    process( new g210_ObjectProgrammingAbstractClass())
 */
 
-    process( new g210_ObjectProgrammingAbstractClass())
-
-
+    process( new g220_ObjectProgrammingInterface())
 }
 
 static void process(aGroovyLesson lesson) {
