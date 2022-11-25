@@ -19,8 +19,7 @@ class g200_ObjectProgrammingClass implements aGroovyLesson {
         //privateStudent.StudentID=-1
         //privateStudent.StudentName="-John"
         println privateStudent
-
-
+        
 
     }
 }
