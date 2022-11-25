@@ -13,8 +13,11 @@ static void main(String[] args) {
     process(new g170_Lists())
     process(new g180_Maps())
     process(new g190_RegularExpressions())
-*/
     process(new g200_ObjectProgrammingClass())
+*/
+
+    process( new g210_ObjectProgrammingAbstractClass())
+
 
 }
 
