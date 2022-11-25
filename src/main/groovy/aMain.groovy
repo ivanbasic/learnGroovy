@@ -2,7 +2,7 @@ static void main(String[] args) {
 
     println("LEARN GROOVY")
     println("")
-
+/*
     process(new g100_Hello())
     process(new g110_Versions())
     process(new g120_DataTypes())
@@ -12,6 +12,9 @@ static void main(String[] args) {
     process(new g160_Strings())
     process(new g170_Lists())
     process(new g180_Maps())
+
+*/
+    process(new g190_RegularExpressions())
 
 }
 
