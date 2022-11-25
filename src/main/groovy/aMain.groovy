@@ -12,9 +12,9 @@ static void main(String[] args) {
     process(new g160_Strings())
     process(new g170_Lists())
     process(new g180_Maps())
-
-*/
     process(new g190_RegularExpressions())
+*/
+    process(new g200_ObjectProgrammingClass())
 
 }
 
