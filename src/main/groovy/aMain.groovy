@@ -18,6 +18,7 @@ static void main(String[] args) {
     process new g220_ObjectProgrammingInterface()
     process new g230_Traits()
     process new g240_Closures()
+    process new g250_ClosuresInCollections()
 }
 
 static void process(aGroovyLesson lesson) {
