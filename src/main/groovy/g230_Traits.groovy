@@ -11,6 +11,9 @@ class g230_Traits implements aGroovyLesson {
         //clazz.interfaceMethod()
 
 
+        println "Java: Since version 8, Java has support for default methods,[19] which have some properties of traits"
+        println "Groovy: Since version 2.3[16]"
+
         clazz.defaultMethod(1000)
         clazz.interfaceMethod(2000, 3000)
         clazz.firstTrait()
