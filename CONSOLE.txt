@@ -1,0 +1,153 @@
+LEARN GROOVY
+
+===============================================================
+class g100_Hello
+===============================================================
+Hello world!
+
+===============================================================
+class g110_Versions
+===============================================================
+Groovy version = 3.0.11
+Java version = 1.8.0_352
+
+===============================================================
+class g120_DataTypes
+===============================================================
+0
+4096
+-727379968
+1000000000000
+1.0E12
+1.0E12
+c
+true
+string
+
+===============================================================
+class g130_RangeOperators
+===============================================================
+5..10
+7
+
+===============================================================
+class g140_Numbers
+===============================================================
+class java.lang.Integer 1000000000
+class java.lang.Integer 1000000000
+class java.lang.Integer 1000000000
+
+class java.lang.Integer -1486618624
+class java.math.BigDecimal -1486618624.0
+class java.math.BigDecimal 1000000000000000000.0
+
+===============================================================
+class g150_Methods
+===============================================================
+method 1 2
+method string 2
+No signature of method: g150_Methods.method() is applicable for argument types: (String, String)
+Cannot cast object 'null' with class 'null' to class 'int' 
+
+===============================================================
+class g160_Strings
+===============================================================
+012345
+[4] = 4
+[-2] = 4
+[1..2] = 12
+[4..2] = 432
+
+===============================================================
+class g170_Lists
+===============================================================
+
+===============================================================
+class g180_Maps
+===============================================================
+
+===============================================================
+class g190_RegularExpressions
+===============================================================
+pattern Xroovy:
+true
+true
+true
+true
+
+pattern digit and one or more
+true
+true
+true
+true
+
+pattern digit and zero or more
+true
+true
+
+pattern digit and zero-or-once
+true
+true
+
+===============================================================
+class g200_ObjectProgrammingClass
+===============================================================
+PublicStudent -1 -John
+PrivateStudent 0 null null
+
+===============================================================
+class g210_ObjectProgrammingAbstractClass
+===============================================================
+default name
+
+===============================================================
+class g220_ObjectProgrammingInterface
+===============================================================
+doIt method is implemented!
+default method
+Grooooovy staticString
+
+===============================================================
+class g230_Traits
+===============================================================
+Java: Since version 8, Java has support for default methods,[19] which have some properties of traits
+Groovy: Since version 2.3[16]
+interface default method 1000
+interface method implemented 2000 3000
+first trait method
+second trait method
+first trait property
+second trait property
+clazz property
+
+===============================================================
+class g240_Closures
+===============================================================
+closure2  100   200
+closure3  300   400
+closure4  500   600 Outer
+
+===============================================================
+class g250_ClosuresInCollections
+===============================================================
+List
+11 12 13 14  WITHOUT the parameters on the left
+11 12 13 14  WITH the parameters on the left
+Map
+1=ana 2=bob 
+1 maps to: ana   2 maps to: bob   
+===============================================================
+class g260_Json
+===============================================================
+parsing text
+John
+1
+GET rest api 
+200
+{"$id":"1","currentDateTime":"2022-11-26T18:57Z","utcOffset":"00:00:00","isDayLightSavingsTime":false,"dayOfTheWeek":"Saturday","timeZoneName":"UTC","currentFileTime":133139626785063810,"ordinalDate":"2022-330","serviceResponse":null}
+POST rest api 
+405
+405 = Method Not Allowed
+
+
+Process finished with exit code 0
