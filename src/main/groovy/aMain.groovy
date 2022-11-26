@@ -19,6 +19,7 @@ static void main(String[] args) {
     process new g230_Traits()
     process new g240_Closures()
     process new g250_ClosuresInCollections()
+    process new g260_Json()
 }
 
 static void process(aGroovyLesson lesson) {
